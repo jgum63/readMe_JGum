@@ -61,9 +61,10 @@ let generateLicense = function () {
 
 
 let readmeText = `# ${title}
-  
-##Project description
+    
+  ## Project description
   ${description}
+  ![Image shows snippet of the code included.](./assets/README.png)
   
   ### Installation
   ${install}
@@ -74,8 +75,10 @@ let readmeText = `# ${title}
   ### License
   ${generateLicense(license)}
 
-  ### Questions
+  ### Link to Github
   https://github.com/jgum63/readMe_JGum
+
+  ### Link to video overview
   https://drive.google.com/file/d/1p13QQJe65DWpsF69OU6XUH5F1zp5vZEa/view
   `
 
