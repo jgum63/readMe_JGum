@@ -1,18 +1,17 @@
-# Project Description
-  fasdf
+# planets
   
-  ## Table of Contents
-  asfdas
-
+  ##Project description
+  asl;dfasdfa
+  
   ### Installation
-  fasfa
+  asdfasfdad
 
-  ## Usage
-  adfasdf
+  ### Usage
+  asdfasfda
 
   ### License
-  [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/)
+  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-  ### 
-  
+  ### Questions
+  https://github.com/jgum63/readMe_JGum
   
