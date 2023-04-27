@@ -1,13 +1,13 @@
-# planets
+# Planets
   
   ##Project description
-  asl;dfasdfa
+  Provides students with information about the planets
   
   ### Installation
-  asdfasfdad
+  Not Applicable
 
   ### Usage
-  asdfasfda
+  For students who wish to learn about the solar system
 
   ### License
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
